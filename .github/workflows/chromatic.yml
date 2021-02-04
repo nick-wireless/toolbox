@@ -18,5 +18,5 @@ jobs:
         # Options required for Chromatic's GitHub Action
         with:
           #👇 Chromatic projectToken, see https://www.learnstorybook.com/intro-to-storybook/vue/en/deploy/ to obtain it
-          projectToken: 601bdb08999ec800216120f7&branch=main
+          projectToken: 9c7ee443fdcb 
           token: ${{ secrets.GITHUB_TOKEN }}
